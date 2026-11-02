@@ -1,0 +1,11 @@
+ORDER_ID,PRODUCT,QUANTITY,UNIT_PRICE,CITY
+1001,Laptop,2,55000,Chennai
+1002,Mouse,5,750,Hyderabad
+1003,Keyboard,3,1200,Bangalore
+1004,Monitor,2,12000,Mumbai
+1005,Headphones,4,2500,Delhi
+1006,Tablet,1,22000,Chennai
+1007,Printer,2,8500,Pune
+1008,Smartphone,3,18000,Hyderabad
+1009,Webcam,2,3200,Bangalore
+1010,Speaker,4,1800,Mumbai

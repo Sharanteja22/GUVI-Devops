@@ -11,7 +11,8 @@ FROM orders
 WHERE order_date BETWEEN '2026-01-10' AND '2026-01-25'
 ORDER BY order_date ASC;
 
-
+select order_id, product_name, quantity, unit_pricen f 
+from order adid sike fda f
 
 SELECT
     c.category_id,
